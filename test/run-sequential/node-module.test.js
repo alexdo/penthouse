@@ -112,7 +112,7 @@ describe('extra tests for penthouse node module', () => {
                   done()
                 }
               })
-          }, 1000)
+          }, 3000)
         }
       })
       .catch(done)
